@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**DDYYMMM/DDYYMMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Dedy Yehezkiel**.\
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa Unpri** di [Dicoding](https://www.dicoding.com/).\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya sedang mempelajari materi tetang dasar Git dengan Github supaya mendapat sertifikat dari plarfrom Dicoding
+
+Saya sedang mengikuti Program MBKM yaitu Studi indepent di platfrom Dicoding
+
+Saya berkuliah di Universitas Prima Indonesia 
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GITHUB](https://www.github.com/DDYYMMM/)ku ya.
